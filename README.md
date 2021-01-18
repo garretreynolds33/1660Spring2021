@@ -6,3 +6,4 @@ This is my first commit for this Class.
 
 Friday Sunny 44 Degrees
 Saturday Partly Cloudy 34 Degrees.
+Sunday Cloudy 37 Degrees
