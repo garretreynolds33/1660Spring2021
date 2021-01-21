@@ -8,3 +8,4 @@ Friday Sunny 44 Degrees
 Saturday Partly Cloudy 34 Degrees.
 Sunday Cloudy 37 Degrees
 Monday Sunny 39 Degrees
+Wednesday Sunny 50 Degrees
