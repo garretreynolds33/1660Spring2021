@@ -1,6 +1,6 @@
 //Maya ASCII 2020 scene
 //Name: Starship.ma
-//Last modified: Tue, Mar 02, 2021 08:25:44 PM
+//Last modified: Tue, Mar 02, 2021 08:27:14 PM
 //Codeset: 1252
 requires maya "2020";
 requires "stereoCamera" "10.0";
@@ -11,12 +11,12 @@ fileInfo "product" "Maya 2020";
 fileInfo "version" "2020";
 fileInfo "cutIdentifier" "202011110415-b1e20b88e2";
 fileInfo "osv" "Microsoft Windows 10 Technical Preview  (Build 19041)\n";
-fileInfo "UUID" "C4C7C5B3-41AA-34F9-99D5-CAA6C7DB24EB";
+fileInfo "UUID" "9BE11694-4DC3-EC21-ED8F-71A59522A79B";
 createNode transform -s -n "persp";
 	rename -uid "2C8CD541-40C4-49A1-4580-3688F23FC09E";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" 1.9642391103562371 10.486065141237535 -20.677000093091856 ;
-	setAttr ".r" -type "double3" 696.86164707958108 -9546.6000000015156 0 ;
+	setAttr ".t" -type "double3" 10.201554699417001 9.6133504279356323 -17.742138384910703 ;
+	setAttr ".r" -type "double3" 699.86164707958062 -9577.0000000014679 0 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "10A55D4D-4DF5-166F-9BC5-6796F5CDCD29";
 	setAttr -k off ".v" no;
