@@ -1,6 +1,6 @@
 # This file uses centimeters as units for non-parametric coordinates.
 
-mtllib Enterprise2.mtl
+mtllib Starship.mtl
 g default
 v 0.489133 3.576184 -6.180614
 v 0.408177 3.576184 -6.387609
